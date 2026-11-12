@@ -21,6 +21,6 @@
 - `ai-resolution-room.png` — live, persisted Groq review with human resolution options
 - `mobile-premium.png` and `mobile-resolution.png` — responsive product views
 
-The public repository, public YouTube video under three minutes, and hackathon form submission still need to be completed separately.
+The source is published at https://github.com/23f3002094/milestone with an MIT license. The user reports uploading a YouTube recording; its URL, visibility, and final runtime still need to be checked. Hackathon form submission remains pending.
 
 The user chose to leave buyer checkout and capture pending. The current recording plan demonstrates verified Sandbox order creation and live AI, followed by clearly labelled sample delivery and resolution transactions.
